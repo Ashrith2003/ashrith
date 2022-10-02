@@ -74,5 +74,4 @@ Software System Lab & 8\\
 \chemfig{*6((-Cl)-=(*6(-N=-=(-HN-[:30](-[2])(-[:-30]-[:30]-[:-30]-[:30]N(-[2]-[:30]-[:-30]OH)(-[:-30]-[:30])))-))-=-=)}
 \end{center}
 \paragraph{This is the molecule hydroxychloroquine,that recently shot to fame as a proposed cure for COVID-19..}
-
 \end{document}

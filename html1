@@ -1,0 +1,61 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>
+            DOCUMENT.DOWNLOADER
+        </title>
+        </head>
+        <body>
+            <h1>
+                 WELCOME TO MY WORLD
+            </h1>
+            <h2>
+                here is THE MONSTER
+            </h2>
+            <a href="https://google.com">this goes to GOOGLE</a>
+            <p>
+               <b> HELLO all</b>,this is the person you are waiting for and
+                you don't know what wiil await if you caught in my fists....
+                ya'll can't bare it.so dont wake me up...
+            </p>    
+            <div>
+                <div> 
+                    hii there.
+                    <div>
+                         hello....
+                    </div>
+                    <p> 
+                        <b> 
+                            <u>
+                               NAMASKARAM
+                            </u>
+                        </b>
+                    </p>
+                </div>
+            </div>
+            <h3>
+                <i>
+                    DINESH....
+                </i>
+            </h3>
+            <p>
+               <b>
+                    <i>
+                        <u>
+                           gaddam Ashrith is here so dont worry too much about the platform
+                        </u>
+                    </i>
+                </b>    
+            </p>
+            <p>
+                <b> HELLO all</b>,this is the person you are waiting for and
+                    you don't know what wiil await if you caught in my fists....
+                    ya'll can't bare it.so dont wake me up...
+            </p>
+            <a href="second.html">This goes to second page</a>
+            <br>
+            <img src="image.jpg" width="200" height="300">
+            <br>
+            <button herf="a.html">it's with button</button>
+        </body>
+    </html>

@@ -1,0 +1,77 @@
+<html>
+<head>
+    <title>Placement_REGISTRATION FORM</title>
+</head>
+<body> <center> <h1 style="color:red ;">PALCEMENT_REGISTRATION FORM</h1></center></body>
+<img src="C:/Users/Ashrith/Documents/HTML/Ashriht.jpg.jpg" width="200px" height="200px">
+<br><br>
+<hr>
+<form action="" method="post"><center>
+    <input type="radio" name="none" >
+    <label>Ms.</label>
+    <input type="radio" name="none" >
+    <label>Mr.</label>
+    <input type="radio" name="none" >
+    <label>Mrs.</label><br><br>
+    <label><b>Student ID:</b></label>
+    <input  style="background-color:pink ;" type="text" name="None:" placeholder="enter ID">
+    <br><br>
+    <label><b>Front name:</b></label>
+    <input type="text" name="None" placeholder="enter your Front name">
+    <br><br>
+    <label><b>Last name:</b></label>
+    <input type="text" name="None" placeholder="enter your Last name">
+    <br><br>
+    <label><b>User Name:</b></label>
+    <input type="text" name="None" placeholder="enter User Name">
+    <br><br>
+    <label>Password:</label>
+    <input type="text" name="Password" placeholder="enter Password">
+    <br><br>
+    <label><b>Address:</b></label><br>
+    <textarea>Write your Address</textarea>
+    <br><br>
+    <label><b>city:</b></label>
+    <input type="text" name="None" placeholder="your city">
+    <br><br>
+    <label><b>State:</b></label>
+    <select>
+        <option>Assam</option>
+        <option>Delhi</option>
+        <option>Telangana</option>
+        <option>Andhra Pradesh</option>
+        <option>Tamilnadu</option>
+        <option>Maharashtra</option>
+        <option>Kerala</option>
+        <option>Odissa</option>
+        </select>
+        <br><br>
+        <label><b>Upload Photo</b></label>
+        <input type="file">
+        <br><br>
+        <label><b>Email</b></label>
+        <input type="text" name="none" placeholder="enter your Email">
+        <br><br>
+        <label><b>Mobile</b></label>
+        <input type="tel" placeholder="enter your Mobile Number">
+        <br><br>
+        <label><b>Language:</b></label><br>
+        <label>English</label>
+        <input type="radio" name="none" ><br>
+        <label>Telugu</label>
+        <input type="radio" name="none" ><br>
+        <label>Hindhi</label>
+        <input type="radio" name="none" ><br>
+        <br><br>
+        <label><b>Additional Inform</b></label><br>
+        <textarea>write something here</textarea>
+        <br><br>
+        <input type="radio" name="none" >
+        <label>Accept terms and Conditions</label>
+        <br><br>
+        <input type="reset" name="reset" value="reset">
+        <br><br>
+    <input type="submit" name="submit" value="submit">
+    <br><br>
+</center></form>
+</html>
